@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">杨楠2024110539</string>
+    <string name="city_list_title">城市天气</string>
+    <string name="city_list_hint">请选择要查看天气的城市</string>
+    <string name="loading_cities">正在读取城市列表…</string>
+    <string name="city_code_format">城市代码：%1$s</string>
+    <string name="city_count_format">共 %1$d 个城市</string>
+    <string name="city_list_load_failed">城市列表读取失败：%1$s</string>
+    <string name="weather_loading">正在获取天气数据…</string>
+    <string name="weather_request_failed">天气获取失败：%1$s</string>
+    <string name="invalid_city_code">城市代码无效</string>
+    <string name="temperature_format">%1$s℃</string>
+    <string name="update_time_format">更新时间：%1$s</string>
+    <string name="weather_info_format">湿度：%1$s\n空气质量：%2$s　AQI：%3$d\nPM2.5：%4$s　PM10：%5$s\n风向风力：%6$s %7$s\n日出：%8$s　日落：%9$s</string>
+    <string name="weather_advice_format">生活建议：%1$s</string>
+    <string name="weather_icon_description">%1$s天气图标</string>
+    <string name="forecast_title">未来天气预报</string>
+    <string name="forecast_date_format">%1$s  %2$s</string>
+    <string name="forecast_weather_format">%1$s　%2$s / %3$s</string>
+    <string name="forecast_wind_format">%1$s %2$s</string>
+    <string name="unknown_value">--</string>
+</resources>
